@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # 科研
 ## 工作
-### 生活
+### LIFE
 
 - Bulleted
 - List
