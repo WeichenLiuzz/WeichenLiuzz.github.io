@@ -4,16 +4,16 @@ You can use the [editor on GitHub](https://github.com/WeichenLiuzz/WeichenLiuzz.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+###玮辰冲冲冲
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+做一个有趣的人
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 科研
+## 工作
+### 生活
 
 - Bulleted
 - List
